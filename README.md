@@ -36,3 +36,5 @@
 * 2369. Check if There is a Valid Partition For The Array.rs
 * 2483. Minimum Penalty for a Shop.go
 * 2616. Minimize the Maximum Difference of Pairs.rs
+* 1799. Maximize Score After N Operations.rs
+* 879. Profitable Schemes.rs
