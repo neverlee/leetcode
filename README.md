@@ -38,3 +38,4 @@
 * 2616. Minimize the Maximum Difference of Pairs.rs
 * 1799. Maximize Score After N Operations.rs
 * 879. Profitable Schemes.rs
+* 847. Shortest Path Visiting All Nodes.rs
