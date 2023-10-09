@@ -9,6 +9,7 @@
 
 ## novip
 * 33. Search in Rotated Sorted Array.rs
+* 34. Find First and Last Position of Element in Sorted Array.go
 * 63. Unique Paths II.rs
 * 68. Text Justification.rs
 * 74. Search a 2D Matrix.rs
