@@ -40,3 +40,4 @@
 * 1799. Maximize Score After N Operations.rs
 * 879. Profitable Schemes.rs
 * 847. Shortest Path Visiting All Nodes.rs
+* 2742. Painting the Walls.go
