@@ -41,3 +41,6 @@
 * 879. Profitable Schemes.rs
 * 847. Shortest Path Visiting All Nodes.rs
 * 2742. Painting the Walls.go
+* 515. Find Largest Value in Each Tree Row.go
+* 1547. Minimum Cost to Cut a Stick.go
+* 823. Binary Trees With Factors.go
