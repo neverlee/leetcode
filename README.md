@@ -1,13 +1,16 @@
 # leetcode
 
 ## vip
+'''
 * 158. 用 Read4 读取 N 个字符 II.go
 * 265. 粉刷房子 II.rs
 * 305. 岛屿数量 II.rs
 * 499. 迷宫 III.rs
 * 2814. Minimum Time Takes to Reach Destination Without Drowning.rs
+'''
 
 ## novip
+'''
 * 33. Search in Rotated Sorted Array.rs
 * 34. Find First and Last Position of Element in Sorted Array.go
 * 63. Unique Paths II.rs
@@ -44,3 +47,5 @@
 * 515. Find Largest Value in Each Tree Row.go
 * 1547. Minimum Cost to Cut a Stick.go
 * 823. Binary Trees With Factors.go
+* 1269. Number of Ways to Stay in the Same Place After Some Steps.go
+'''
