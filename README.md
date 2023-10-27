@@ -1,13 +1,11 @@
 # leetcode
 
 ## vip
-'''
-* 158. 用 Read4 读取 N 个字符 II.go
-* 265. 粉刷房子 II.rs
-* 305. 岛屿数量 II.rs
-* 499. 迷宫 III.rs
-* 2814. Minimum Time Takes to Reach Destination Without Drowning.rs
-'''
+- 158. 用 Read4 读取 N 个字符 II.go
+- 265. 粉刷房子 II.rs
+- 305. 岛屿数量 II.rs
+- 499. 迷宫 III.rs
+- 2814. Minimum Time Takes to Reach Destination Without Drowning.rs
 
 ## novip
 '''
