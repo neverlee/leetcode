@@ -48,4 +48,7 @@
 * 1547. Minimum Cost to Cut a Stick.go
 * 823. Binary Trees With Factors.go
 * 1269. Number of Ways to Stay in the Same Place After Some Steps.go
+* 1220. Count Vowels Permutation.go
+* 2433. Find The Original Array of Prefix Xor.go
+* 1569. Number of Ways to Reorder Array to Get Same BST.go
 ```
