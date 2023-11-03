@@ -51,4 +51,5 @@
 * 1220. Count Vowels Permutation.go
 * 2433. Find The Original Array of Prefix Xor.go
 * 1569. Number of Ways to Reorder Array to Get Same BST.go
+* 1095. Find in Mountain Array.go
 ```
