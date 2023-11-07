@@ -53,4 +53,5 @@
 * 1569. Number of Ways to Reorder Array to Get Same BST.go
 * 1095. Find in Mountain Array.go
 * 2265. Count Nodes Equal to Average of Subtree.rs
+* 2328. Number of Increasing Paths in a Grid.go
 ```
