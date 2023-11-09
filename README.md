@@ -54,4 +54,5 @@
 * 1095. Find in Mountain Array.go
 * 2265. Count Nodes Equal to Average of Subtree.rs
 * 2328. Number of Increasing Paths in a Grid.go
+* 2251. Number of Flowers in Full Bloom.rs
 ```
