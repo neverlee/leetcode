@@ -57,4 +57,5 @@
 * 2251. Number of Flowers in Full Bloom.rs
 * 987. Vertical Order Traversal of a Binary Tree.go
 * 815. Bus Routes.go
+* 2551. Put Marbles in Bags.go
 ```
