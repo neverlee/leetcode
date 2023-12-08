@@ -59,4 +59,5 @@
 * 815. Bus Routes.go
 * 2551. Put Marbles in Bags.go
 * 912. Sort an Array.go
+* 1125. Smallest Sufficient Team.go
 ```
