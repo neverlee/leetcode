@@ -60,4 +60,5 @@
 * 2551. Put Marbles in Bags.go
 * 912. Sort an Array.go
 * 1125. Smallest Sufficient Team.go
+* 2147. Number of Ways to Divide a Long Corridor.go
 ```
