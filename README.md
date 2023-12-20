@@ -61,4 +61,5 @@
 * 912. Sort an Array.go
 * 1125. Smallest Sufficient Team.go
 * 2147. Number of Ways to Divide a Long Corridor.go
+* 1203. Sort Items by Groups Respecting Dependencies.go
 ```
