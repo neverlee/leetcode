@@ -63,4 +63,5 @@
 * 2147. Number of Ways to Divide a Long Corridor.go
 * 1203. Sort Items by Groups Respecting Dependencies.go
 * 1359. Count All Valid Pickup and Delivery Options.go
+* 1458. Max Dot Product of Two Subsequences.go
 ```
