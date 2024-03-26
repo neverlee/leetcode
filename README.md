@@ -65,4 +65,5 @@
 * 1359. Count All Valid Pickup and Delivery Options.go
 * 1458. Max Dot Product of Two Subsequences.go
 * 332. Reconstruct Itinerary.go
+* 1793. Maximum Score of a Good Subarray.rs
 ```
