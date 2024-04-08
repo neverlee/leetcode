@@ -66,4 +66,5 @@
 * 1458. Max Dot Product of Two Subsequences.go
 * 332. Reconstruct Itinerary.go
 * 1793. Maximum Score of a Good Subarray.rs
+* 2642. Design Graph With Shortest Path Calculator.rs
 ```
