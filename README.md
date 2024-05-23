@@ -69,4 +69,5 @@
 * 2642. Design Graph With Shortest Path Calculator.rs
 * 220. Contains Duplicate III.go
 * 218. The Skyline Problem.rs
+* 2597. The Number of Beautiful Subsets.go
 ```
